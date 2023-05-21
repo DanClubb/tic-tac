@@ -4,10 +4,7 @@ function Cross() {
   return (
     <Fragment>
       <div className="cross rotate-45"></div>
-      <div
-        className="cross -rotate-45"
-        style={{ animationDelay: "1.1s;" }}
-      ></div>
+      <div className="cross animation-delay -rotate-45"></div>
     </Fragment>
   );
 }

@@ -1,6 +1,6 @@
 function Circle() {
   return (
-    <svg className="w-20 h-20 sm:w-28 sm:h-28 md:w-40 md:h-40">
+    <svg className="h-20 w-20 sm:h-28 sm:w-28 md:h-40 md:w-40">
       <circle
         cx="50%"
         cy="50%"
